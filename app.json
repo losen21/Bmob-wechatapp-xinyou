@@ -10,7 +10,9 @@
     "pages/write/write",
     "pages/newList/newList",
     "pages/protocol/protocol",
-    "pages/about/about"
+    "pages/about/about",
+    "pages/about/about1",
+    "pages/about/about2"
     
 
   ],
